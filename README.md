@@ -1,2 +1,2 @@
-# sqlalchemy-challenge_Part_2
+# sqlalchemy-challenge_2
 Weird things were happening with my first attempt. Now time for part 2
